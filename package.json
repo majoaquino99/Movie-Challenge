@@ -1,0 +1,19 @@
+{
+  "name": "movie-challenge",
+  "version": "1.0.0",
+  "description": "Web-application that consumes The Open Movie Data Base OMDB to display specific or random movies depending on user's preferencies.",
+  "main": "\u001b[D\u001b[D\u001b[C",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anapaulaoliva/Movie-Challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anapaulaoliva/Movie-Challenge/issues"
+  },
+  "homepage": "https://github.com/anapaulaoliva/Movie-Challenge#readme"
+}
